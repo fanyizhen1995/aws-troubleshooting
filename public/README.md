@@ -1,5 +1,5 @@
 
-网址：[https://lab798.github.io/aws-troubleshooting/](https://lab798.github.io/aws-troubleshooting/)
+网址：[https://fanyizhe.github.io/aws-troubleshooting/](https://fanyizhe.github.io/aws-troubleshooting/)
 
 ## 背景
 
@@ -11,17 +11,4 @@
 
 - 本网站同样列举了一些其他可能的故障原因，在 “其他可能的问题原因Q&A” 栏中。
 
-**声明：** 本网站为Github Pages 托管的静态页面，不存储缓存，不保留任何Access Key ID/Access Key Secret信息。
-
-## 启动项目
-
-若要本地启动该项目，您需要：
-
-1. 下载该项目至本地。
-
-1. 安装所需模块，然后启动网站:
-
-```
-    yarn install
-    yarn start
-```
+**声明：**本网站为Github Pages 托管的静态页面，不存储缓存，不保留任何Access Key ID/Access Key Secret信息。
