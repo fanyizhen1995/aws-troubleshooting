@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aws-troubleshooting/static/css/main.2cce8147.chunk.css",
+    "main.js": "/aws-troubleshooting/static/js/main.76953265.chunk.js",
+    "main.js.map": "/aws-troubleshooting/static/js/main.76953265.chunk.js.map",
+    "runtime~main.js": "/aws-troubleshooting/static/js/runtime~main.85934043.js",
+    "runtime~main.js.map": "/aws-troubleshooting/static/js/runtime~main.85934043.js.map",
+    "static/js/2.4dd98196.chunk.js": "/aws-troubleshooting/static/js/2.4dd98196.chunk.js",
+    "static/js/2.4dd98196.chunk.js.map": "/aws-troubleshooting/static/js/2.4dd98196.chunk.js.map",
+    "index.html": "/aws-troubleshooting/index.html",
+    "precache-manifest.9b5304b89baf2a0f115cb8bec9602c9e.js": "/aws-troubleshooting/precache-manifest.9b5304b89baf2a0f115cb8bec9602c9e.js",
+    "service-worker.js": "/aws-troubleshooting/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/aws-troubleshooting/static/css/main.2cce8147.chunk.css.map"
+  }
+}
