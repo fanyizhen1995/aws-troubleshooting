@@ -42,7 +42,7 @@ export default function TestSSH() {
               <div>本网站通过调用aws的API获取您EC2的配置信息，以此来检验是否存在导致无法进行SSH登录的配置信息。</div>
               <div>本网站同样列举了其他的一些可能的故障原因，在下方“其他可能的问题原因Q&A中”。</div>
               <div>若本网站的功能无法解决您的问题，请联系我们的工程师进行排查。</div><br />
-              <b>声明：</b>本网站为GitHub Pages托管的静态页面。纯开源，源代码在https://github.com/lab798/aws-troubleshooting。不存储缓存，不保留任何Access Key ID/Access Key Secret信息。
+              <b>声明：</b>本网站为GitHub Pages托管的静态页面。纯开源，源代码在https://github.com/fanyizhe/aws-troubleshooting。不存储缓存，不保留任何Access Key ID/Access Key Secret信息。
             </Typography>
           </Container>
           {/*<Container maxWidth="lg" className={classes.container}> 
